@@ -28,3 +28,13 @@ Define a template for questions and context.
 
 Question-Answering System:
 Use the system to ask questions based on the available context.
+
+# Example Usage
+
+Here are some example queries and responses:
+
+Query: "YOLOv7 outperforms which models"
+Response: "Based on the provided context, YOLOv7 outperforms..."
+
+Query: "What is Rachel Green qualification"
+Response: "Based on the provided context, Rachel Green's qualification is..."
