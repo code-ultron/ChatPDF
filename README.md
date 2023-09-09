@@ -2,7 +2,9 @@
 This repository contains a Python script for extracting text from PDF documents, creating embeddings, 
 and performing similarity searches using Pinecone. 
 It also demonstrates a question-answering system using the Llama2 model via Hugging Face.
-Usage Instructions
+
+# Usage Instructions
+
 Load PDF Files:
 
 The script downloads PDF files and stores them in a "pdfs" folder.
